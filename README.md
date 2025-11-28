@@ -2,6 +2,17 @@
 
 Repositorio com notebook `Cold_drinks.ipynb` treinando detectores para 6 refrigerantes (Coca Cola, Sprite, Pepsi, Mountain Dew, 7UP, Fanta) usando o dataset [Kaggle cold-drinks-inventory-dataset](https://www.kaggle.com/datasets/faseeh001/cold-drinks-inventory-dataset). O fluxo foi pensado para Google Colab com GPU.
 
+## 👥 Integrantes do Projeto
+
+- **Luis Felipe dos Santos Gianoni** - 210206  
+- **Eduardo Weber Maldaner** - 211948  
+- **Guilherme Felipe Reis Soares** - 211590  
+- **Ronaldo Simeone Antonio** - 190232  
+- **Giovana Mendes Gomes** - 210050  
+- **Felipe Perrella dos Santos** - 210298  
+- **Vicent Ripoll Baradat** - 252817  
+- **Mateus Martins Freitas** - 210498  
+
 ## Ambiente e dependencias
 - Python 3.10+ com GPU (Colab recomendado).
 - Pacotes principais: `kaggle`, `ultralytics`, `torch`, `torchvision`, `pycocotools`, `matplotlib`, `pandas`, `tqdm`.
